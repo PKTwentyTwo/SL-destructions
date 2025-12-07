@@ -1,0 +1,3 @@
+#CLL state-numbering golly
+x = 24, y = 17, rule = B3/S23
+bo$2bo$3o8$20b2o$20bo$21bo$22bo$23bo$20b3o$20bo!
