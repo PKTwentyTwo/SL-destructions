@@ -7,3 +7,5 @@ As I have found existence proof the easiest way to tackle this problem, I have f
 This repository stores my destructions in a compressed format using 7-Zip. 7-Zip is an efficient open-source file archiver licensed under the GPL, and it can be downloaded from https://www.7-zip.org.
 The name of each archive is based on the equivalent tabulation for Catagolue - xs19.7z stores destructions for 19-bit still lifes, for example.
 Tabulations xs4 through xs18 are all in the same archive, as they are small - when compressed, the total size is <1MB.
+## Current progress
+Currently, it has been determined that the lower bound for the smallest SL resilient enough to resist 2 gliders is 22 cells.
